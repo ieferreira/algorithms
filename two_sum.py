@@ -6,9 +6,7 @@ def twoSum(ls: List[int], target: int) -> List[int]:
             if ls[i] + ls[j] == target:
                 return i, j
 
-
 nums = [2,7,11,15]
 target = 18
 
 print(twoSum(nums, target))
-
