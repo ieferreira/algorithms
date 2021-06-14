@@ -1,3 +1,5 @@
+# Naive approach to the two Sum problem
+
 function twoSum(N::Vector, target)
     
     len = length(N)
