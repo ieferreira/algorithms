@@ -10,3 +10,5 @@ for i in range(k):
 
 n = int(n)
 print(n)
+
+# %%
