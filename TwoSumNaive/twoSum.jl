@@ -16,7 +16,7 @@ function twoSum(N::Vector, target)
 end
 
 nums = [2,7,11,15, -4, 11]
-target = 18
+target = 9
 
 
 @show twoSum(nums, target)
