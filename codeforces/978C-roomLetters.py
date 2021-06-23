@@ -22,8 +22,3 @@ for i in range(letters):
             pass
 
 print(sendto)
-
-
-# print(dorms, letters)
-# print(number_rooms)
-# print(address)
