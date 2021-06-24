@@ -13,6 +13,7 @@ def insertionSort(ls: List) -> List:
 
     return ls
 
+#Codigo de quickSort
 
 ls = random.sample(range(100), 10)
 print(ls)

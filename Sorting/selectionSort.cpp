@@ -46,6 +46,8 @@ void selectionSort(int a[], int n)
         swap(a, i, j);
         i++;
     }
+
+    
 }
 
 int main()
