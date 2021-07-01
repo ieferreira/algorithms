@@ -1,9 +1,8 @@
-def binary_search(ls, low, high, x, calls):
+def binary_search(ls, low, high, x):
 
     if high >= low:
-        calls += 1
         mid = (high + low) // 2
-        print(calls)
+
         if ls[mid] == x:
             return mid
 
