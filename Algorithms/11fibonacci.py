@@ -94,4 +94,5 @@ def fib5(n: int) -> Generator[int, None, None]:
 for i in fib5(50):
     print(i)
 
+
 # %%
